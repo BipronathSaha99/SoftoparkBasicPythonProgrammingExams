@@ -1,8 +1,8 @@
 # Softopark_Exam
-<feat>: Softopark Exam based on Basic Python Prgramming contest files are included here. 
+<feat>: Basic Python Programming contest problems solutions
   
-After Completing Basic Python Course which was for the beginners, Softpark authorities arranged an exam where 10 questions were uplodated for the students and I've solved the nine problems from the ten. During the solving problems I took the help from the python documentation and here I am attaching the Python documentation link on the comment section.
- 
+Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
+
 Python Documantation Link: https://www.python.org/doc/ 
   
 
